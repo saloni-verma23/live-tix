@@ -1,0 +1,44 @@
+.book-card{
+    background-color: var(--c5);
+}
+.booking-page{  
+    height: auto;       /* Automatically adjusts to fit the content */
+    box-sizing: border-box; /* Includes padding and border in dimensions */
+    border: none;
+    border-radius: 0.5rem;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.7); /* Add a dark transparent overlay */
+    background-blend-mode: darken;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.5); 
+    color: white;
+    
+}
+@media only screen and (max-width: 768px) {
+    .booking-page{
+        width: 95vw;
+    }
+    .book-img{
+        width: 40%;
+    }
+    .booking-details{
+        font-size:12px;
+    }
+    .input-box{
+        width: 4rem;
+        height: 1rem;
+        
+    }
+}
+@media only screen and (min-width: 1024px) {
+    .book-img{
+        width:30%;
+    }
+    .booking-details{
+        font-size:30px;
+    }
+    .input-box{
+        width: 5rem;
+        
+    }
+}
