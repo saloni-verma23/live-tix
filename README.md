@@ -16,26 +16,26 @@ Bootstrap: For responsive design and UI components.<br>
 HTML/CSS: For structuring and styling the website.<br>
 <h2>Screenshots</h2>
 
-<h5>Landing Page:</h5>
+Landing Page:
 ![Screenshot 1](src/assets/landing-page.png)
 
-<h5>Category Sidebar:</h5>
+Category Sidebar:
 ![Screenshot 2](src/assets/category-sidebar.png)
 
-<h5>Event Listings:</h5>
+Event Listings:
 ![Screenshot 3](src/assets/event-listings.png)
 
-<h5>Event Details Page:</h5>
+Event Details Page:
 ![Screenshot 4](src/assets/event-details-1.png)
 
 ![Screenshot 5](src/assets/event-details-2.png)
 
-<h5>Admin Dashboard:</h5>
+Admin Dashboard:
 ![Screenshot 6](src/assets/admin-page-1.png)
 
 ![Screenshot 7](src/assets/admin-page-2.png)
 
-<h5>Booking Confirmation:</h5>
+Booking Confirmation:
 ![Screenshot 8](src/assets/booking-confirmation.png)
 
 
