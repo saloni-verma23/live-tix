@@ -20,7 +20,7 @@ body{
   background-size: cover;
   text-shadow: 1px 1px 0 var(--c3);
   width: 100%;        /* Take the full width of the parent container */
-    max-width: 95vw; 
+  max-width: 95vw; 
 }
 .hero-text{
   color:var(--c2);
@@ -33,9 +33,6 @@ body{
   color: var(--c3);
 }
 @media only screen and (max-width: 768px){
-  .hero{
-    
-  }
   .hero-text{
     font-size: 15px;
   }

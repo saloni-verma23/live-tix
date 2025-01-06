@@ -16,7 +16,9 @@ const Main = () => {
         </div>
         <div className="d-flex gap-3 justify-content-left lead fw-normal">
           <button className="btn hero-button">
-            <Link to="/events">Book Now</Link>
+            <Link to="/events" className="text-light text-decoration-none">
+              Book Now
+            </Link>
           </button>
         </div>
       </div>
