@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Home from "./routes/Home.jsx";
 import App from "./routes/App.jsx";
 import Events from "./routes/Events.jsx";
-import eventStore from "./store/Index.js";
+import eventStore from "./store/index.js";
 import Booking from "./components/Booking.jsx";
 import Admin from "./routes/Admin.jsx";
 const router = createBrowserRouter([
