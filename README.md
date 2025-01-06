@@ -15,13 +15,19 @@ React Router: For effortless navigation between pages.<br>
 Bootstrap: For responsive design and UI components.<br>
 HTML/CSS: For structuring and styling the website.<br>
 <h2>Screenshots</h2>
-Landing Page: 
-![Screenshot 1](src/assets/initial-grid-state.png)
-Category Sidebar: Screenshot 2
-Event Listings: Screenshot 3
-Event Details Page: Screenshot 4
-Admin Dashboard: Screenshot 5
-Real-Time Seat Selection: Screenshot 6
-Booking Confirmation: Screenshot 7
-Video Demonstration
-Watch the full demo on YouTube
+Landing Page:
+![Screenshot 1](src/assets/landing-page.png)
+Category Sidebar:
+![Screenshot 2](src/assets/category-sidebar.png)
+Event Listings:
+![Screenshot 3](src/assets/event-listings.png)
+Event Details Page:
+![Screenshot 4](src/assets/event-details-1.png)
+![Screenshot 5](src/assets/event-details-2.png)
+Admin Dashboard:
+![Screenshot 6](src/assets/admin-page-1.png)
+![Screenshot 7](src/assets/admin-page-2.png)
+Booking Confirmation:
+![Screenshot 8](src/assets/booking-confirmation.png)
+<h2>Video Demonstration</h2>
+Watch the full demo on YouTube: 
