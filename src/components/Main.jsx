@@ -15,9 +15,9 @@ const Main = () => {
           </p>
         </div>
         <div className="d-flex gap-3 justify-content-left lead fw-normal">
-          <Link to="/events" className="btn hero-button">
-            Book Now
-          </Link>
+          <button className="btn hero-button">
+            <Link to="/events">Book Now</Link>
+          </button>
         </div>
       </div>
       <div className="product-device shadow-sm d-none d-md-block"></div>
