@@ -15,7 +15,8 @@ React Router: For effortless navigation between pages.<br>
 Bootstrap: For responsive design and UI components.<br>
 HTML/CSS: For structuring and styling the website.<br>
 <h2>Screenshots</h2>
-Landing Page: Screenshot 1
+Landing Page: 
+![Screenshot 1](src/assets/initial-grid-state.png)
 Category Sidebar: Screenshot 2
 Event Listings: Screenshot 3
 Event Details Page: Screenshot 4
