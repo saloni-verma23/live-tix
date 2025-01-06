@@ -15,19 +15,29 @@ React Router: For effortless navigation between pages.<br>
 Bootstrap: For responsive design and UI components.<br>
 HTML/CSS: For structuring and styling the website.<br>
 <h2>Screenshots</h2>
+
 Landing Page:
 ![Screenshot 1](src/assets/landing-page.png)
+
 Category Sidebar:
 ![Screenshot 2](src/assets/category-sidebar.png)
+
 Event Listings:
 ![Screenshot 3](src/assets/event-listings.png)
+
 Event Details Page:
 ![Screenshot 4](src/assets/event-details-1.png)
+
 ![Screenshot 5](src/assets/event-details-2.png)
+
 Admin Dashboard:
 ![Screenshot 6](src/assets/admin-page-1.png)
+
 ![Screenshot 7](src/assets/admin-page-2.png)
+
 Booking Confirmation:
 ![Screenshot 8](src/assets/booking-confirmation.png)
+
+
 <h2>Video Demonstration</h2>
-Watch the full demo on YouTube: 
+[Watch the video on YouTube](https://www.youtube.com/watch?v=PXvKR50uMZI&feature=youtu.be)
