@@ -5,7 +5,6 @@ const Home = () => {
     <>
       <div className="d-flex flex-column">
         <Main></Main>
-
         <Events></Events>
       </div>
     </>

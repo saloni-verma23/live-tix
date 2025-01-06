@@ -8,7 +8,6 @@ const Events = () => {
     selectedEventType === "all"
       ? events
       : events.filter((event) => event.eventType === selectedEventType);
-  console.log(events);
 
   return (
     <>

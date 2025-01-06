@@ -20,15 +20,12 @@ const eventSlice = createSlice({
       const { eventId, tickets } = action.payload;
       const event = state.events.find((event) => event.id === eventId);
       if (event) {
-        console.log(event.seatsAvailable);
         event.seatsAvailable = event.seatsAvailable - tickets; // Update the number of tickets
       }
     },
     addEvent: (state, action) => {
       console.log(action.payload.image);
-
       state.events.unshift(action.payload);
-      console.log(state.events);
     },
   }
 });

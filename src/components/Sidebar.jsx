@@ -11,7 +11,6 @@ const Sidebar = () => {
 
   const handleEventTypeChange = (eventType) => {
     dispatch(eventActions.setEventType(eventType));
-    console.log(eventType);
   };
   return (
     <div className="d-flex flex-column flex-shrink-0 p-4 sidebar d-none d-md-block d-lg-block">
